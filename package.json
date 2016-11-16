@@ -1,7 +1,7 @@
 {
   "name": "ledgerloops-challenge",
-  "version": "0.0.1",
-  "description": "Challenges for use in cryptographically-triggered IOUs",
+  "version": "0.0.2",
+  "description": "https://ledgerloops.com/ - Challenges for use in cryptographically-triggered IOUs",
   "main": "index.js",
   "directories": {
     "test": "test"
